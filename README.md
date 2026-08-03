@@ -12,7 +12,7 @@ The objective of this project was to perform a complete analytics workflow—fro
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -26,7 +26,7 @@ The objective of this project was to perform a complete analytics workflow—fro
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 ```text
 Raw CSV Files
@@ -52,7 +52,7 @@ The Power BI dashboard is divided into three pages to provide a structured analy
 
 ---
 
-## 📄 Page 1 – Executive Overview
+## Page 1 – Executive Overview
 
 This page provides a high-level summary of the dataset.
 
@@ -70,7 +70,7 @@ This page provides a high-level summary of the dataset.
 
 ---
 
-## 📄 Page 2 – Correlation Analysis
+## Page 2 – Correlation Analysis
 
 This page explores relationships between Happiness Score and major contributing factors.
 
@@ -85,7 +85,7 @@ Each scatter plot includes a trend line to visualize the relationship between va
 
 ---
 
-## 📄 Page 3 – Country Insights
+## Page 3 – Country Insights
 
 This page allows users to drill deeper into individual countries.
 
@@ -118,7 +118,7 @@ Python was used for:
 
 ---
 
-# 🗄️ SQL Analysis
+# SQL Analysis
 
 SQL was used to answer analytical questions such as:
 
@@ -131,7 +131,7 @@ SQL was used to answer analytical questions such as:
 
 ---
 
-# 📈 Key Insights
+# Key Insights
 
 Some of the major findings from the analysis include:
 
@@ -143,7 +143,7 @@ Some of the major findings from the analysis include:
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
